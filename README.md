@@ -66,4 +66,4 @@ python manage.py runserver
 ## Документация к API
 Будет доступна после запуска сервера по адресу http://127.0.0.1:8000/redoc/
 
-## Автор [Дарья Леонова](https://github.com/AlisaLi1981)
+### Автор [Дарья Леонова](https://github.com/AlisaLi1981)
